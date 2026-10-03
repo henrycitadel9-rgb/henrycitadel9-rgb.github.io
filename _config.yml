@@ -18,19 +18,19 @@ url                      : "https://henrycitadel9-rgb.github.io" # The base host
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "henrycitadel9-rgb/henrycitadel9-rgb.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
+# Site Author - The following control what appear as part of the authorhttps://github.com/henrycitadel9-rgb/henrycitadel9-rgb.github.io/pulls content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Henry Kofi Dodzi Dakpo"
-  pronouns         : # example: "she/her"  
+  pronouns         : ''he/him''
   bio              : "Psychology and Information Studies graduate interested in human-computer interaction, human-centered AI, and information retrieval."
   location         : "Accra, Ghana"
   employer         : "University of Ghana"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hkddakpo@st.ug.edu.gh" 
 
   # Academic websites
   academia         : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : ''https://www.linkedin.com/in/henry-dakpo''
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
