@@ -11,7 +11,7 @@ I am a recent BA graduate in Psychology and Information Studies from the Univers
 
 I have research experience spanning cognition, human interaction with information systems, and applied AI. Specifically, I investigated how focused attention influences auditory information processing and memory; examined users' interactions with FAQ, retrieval-based chatbot, and AI-chatbot interfaces; and worked on automatic speech recognition for Ga, a low-resource Ghanaian language. These experiences have strengthened my interest in graduate research at the intersection of human behavior, information, and computing.
 
-See more details about my work [here](RESEARCH-PROJECTS-LINK), and presentations I have made on these works [here](PRESENTATIONS-LINK).
+See more details about my work [here](/portfolio/), and presentations I have made on these works [here](/talks/).
 
 ## Research Interests
 
