@@ -46,6 +46,7 @@ author_profile: true
 </style>
 
 {% for post in site.portfolio %}
+
 <div class="project-entry">
 
   <div class="project-number">
@@ -62,20 +63,22 @@ author_profile: true
     {% elsif forloop.index == 2 %}
       For this project, I developed and deployed an automatic speech recognition system for Ga, a low-resource Ghanaian language, by fine-tuning Whisper on approximately 90,000 audio-text pairs.
     {% elsif forloop.index == 3 %}
-      This was a class project where I examined how focused attention and competing auditory information influence information processing and memory.
+      For this class project, I examined how focused attention and competing auditory information influence information processing and memory.
     {% endif %}
   </div>
 
   <div class="project-details">
-    <a class="project-link" href="{{ post.url | relative_url }}">View project details</a>
+    <a class="project-link" href="{{ post.url | relative_url }}">Click here to view project details</a>
+
     {% if forloop.index == 1 %}
-      (Learn what inspired me to work on this project, see the findings and full write-up of the completed project, and watch a demo of the three interactive systems I created.)
+      (Learn what inspired me to work on this project, see a summary of the project and its findings, watch a demo of the three interactive systems I created, and access the full write-up.)
     {% elsif forloop.index == 2 %}
-      (Learn about my inspiration and how I got involved in this project, a demonstration of the model I created and the project summary.)
+      (Learn how I got involved in this project, see a summary of the project and its results, and watch a demonstration of the Ga speech-recognition system I developed.)
     {% elsif forloop.index == 3 %}
-      (Learn about my favorite class project, findings and a write-up on the full details of project.)
+      (Learn about my favorite class project, see what I found, and access the full write-up of the study.)
     {% endif %}
   </div>
 
 </div>
+
 {% endfor %}
