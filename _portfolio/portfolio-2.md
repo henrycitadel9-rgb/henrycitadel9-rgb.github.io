@@ -1,5 +1,5 @@
 ---
-title: "PROJECT 2<br/><em>Building a High-Accuracy Ga ASR System Using the Transformer-Based Whisper Architecture</em>"
+title: "Building a High-Accuracy Ga ASR System Using the Transformer-Based Whisper Architecture"
 excerpt: "Developed and deployed an automatic speech recognition system for Ga, a low-resource Ghanaian language, by fine-tuning Whisper on approximately 90,000 audio-text pairs.<br/><br/><a href='/portfolio/portfolio-2/'><strong>Explore the project</strong></a> <em>(Inspiration, project summary & results, demo, and additional details)</em>"
 collection: portfolio
 ---
