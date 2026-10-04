@@ -1,5 +1,5 @@
 ---
-title: "PROJECT 3<br/><em>The Effect of Focused Attention on Attended and Unattended Binaural Listening Task</em>"
+title: "The Effect of Focused Attention on Attended and Unattended Binaural Listening Task"
 excerpt: "Examined how focused attention and competing auditory information influence information processing and memory.<br/><br/><a href='/portfolio/portfolio-3/'><strong>Explore the project</strong></a> <em>(Inspiration, project summary & findings, and additional study details)</em>"
 collection: portfolio
 ---
