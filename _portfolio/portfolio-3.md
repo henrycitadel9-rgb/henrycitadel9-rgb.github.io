@@ -1,6 +1,6 @@
 ---
-title: "The Effect of Focused Attention on Attended and Unattended Binaural Listening Task"
-excerpt: "Examining how focused attention influences the processing and retention of auditory information."
+title: "Project 3: The Effect of Focused Attention on Attended and Unattended Binaural Listening Task"
+excerpt: "Examined how focused attention and competing auditory information influence information processing and memory.<br/><br/><strong>Explore the project →</strong> See what inspired me to work on this project, the project summary and findings, and additional details of the study."
 collection: portfolio
 ---
 
@@ -8,9 +8,9 @@ collection: portfolio
 
 Throughout my undergraduate studies, I worked on several class projects, but this cognition project remains my favorite. I have always been curious about how the mind processes information and how we are able to focus on certain information while ignoring other things happening around us. I was therefore excited to have the opportunity to explore this topic in my **Practicals in Cognition II** class. In this project, I used pre-existing experimental data collected from students enrolled in PSYC 441/449 to examine how focused attention influences the way we process and remember auditory information.
 
-See the abstract/summary below, and you can download the full details of my work [here].
+See the **Project Summary** below, and you can download the full details of my work [here].
 
-## Abstract / Summary
+## Project Summary
 
 Attention allows us to focus on relevant information while filtering out competing information around us. However, when multiple sources of information compete for our attention, our ability to process and remember them may be affected. This project examined how focused attention influences the processing and retention of auditory information.
 
