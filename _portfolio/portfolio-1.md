@@ -6,7 +6,7 @@ collection: portfolio
 
 ## Inspiration
 
-During my first year at the University of Ghana, my colleagues and I often struggled to find information on the university's website. Sometimes the information was there, but where it was placed or how it was worded made it difficult to find. I experienced this again later while searching for internship opportunities. By then, I had started teaching myself computing and was excited by the possibility of using the skills I was gaining to solve a problem I had experienced firsthand. That led me to ask: **Could there be a simpler and more user-friendly way for students to find the information they need with less cognitive effort?**
+During my first year at the University of Ghana, my colleagues and I often struggled to find information on the university's website. Sometimes the information was there, but where it was placed or how it was worded made it difficult to find. I experienced this again later while searching for internship opportunities. By then, I had started teaching myself computing and came up with the idea to use the skills I was gaining to investigate this problem. That led me to asking this question: **Could there be a simpler and more user-friendly way for students to find the information they need with less cognitive effort?**
 
 See the **Project Summary and Demo** below for details of the study, its findings, and the systems I developed.
 
