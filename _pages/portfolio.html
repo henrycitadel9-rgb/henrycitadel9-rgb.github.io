@@ -1,14 +1,77 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Research & Projects"
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<style>
+.project-entry {
+  margin-bottom: 3.2em;
+}
+
+.project-number {
+  font-size: 1.05em;
+  font-weight: 700;
+  margin-bottom: 0.35em;
+}
+
+.project-title {
+  font-size: 1.15em;
+  font-weight: 600;
+  font-style: italic;
+  line-height: 1.35;
+  margin-top: 0;
+  margin-bottom: 0.8em;
+}
+
+.project-summary {
+  margin-bottom: 0.9em;
+}
+
+.project-details {
+  font-style: italic;
+}
+
+.project-link {
+  font-style: normal;
+  font-weight: 700;
+}
+</style>
 
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="project-entry">
 
+  <div class="project-number">
+    PROJECT {{ forloop.index }}
+  </div>
+
+  <div class="project-title">
+    {{ post.title }}
+  </div>
+
+  <div class="project-summary">
+    {% if forloop.index == 1 %}
+      Compared FAQ, retrieval-based chatbot, and AI-chatbot interfaces to examine how different ways of delivering the same information affect users' experience accessing student-service information.
+    {% elsif forloop.index == 2 %}
+      Developed and deployed an automatic speech recognition system for Ga, a low-resource Ghanaian language, by fine-tuning Whisper on approximately 90,000 audio-text pairs.
+    {% elsif forloop.index == 3 %}
+      Examined how focused attention and competing auditory information influence information processing and memory.
+    {% endif %}
+  </div>
+
+  <div class="project-details">
+    <a class="project-link" href="{{ post.url | relative_url }}">Explore the project</a>
+    {% if forloop.index == 1 %}
+      (Inspiration, project summary &amp; findings, demo, and additional details)
+    {% elsif forloop.index == 2 %}
+      (Inspiration, project summary &amp; results, demo, and additional details)
+    {% elsif forloop.index == 3 %}
+      (Inspiration, project summary &amp; findings, and additional study details)
+    {% endif %}
+  </div>
+
+</div>
+{% endfor %}
