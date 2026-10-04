@@ -21,4 +21,4 @@ Cognition · Human-Computer Interaction · Information Behavior · Information R
 
 ## Current Work
 
-I am currently completing my **National Service at the Center for Educational Research and Policy**, where I am contributing to the center's work while gaining further professional and research experience. I expect to complete my national service at the **end of July 2027**.
+I just started serving my nation through the **Center for Educational Research and Policy**, and expect to complete my service at the **end of July 2027**.
