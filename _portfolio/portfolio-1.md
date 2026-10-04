@@ -1,6 +1,6 @@
 ---
-title: "Project 1: Same Facts, Different Interfaces: Evaluating FAQ, Retrieval Chatbot, and AI Chatbot for Student Services"
-excerpt: "Compared FAQ, retrieval-based chatbot, and AI-chatbot interfaces to examine how different ways of delivering the same information affect users' experience accessing student-service information.<br/><br/><strong>Explore the project →</strong> See what inspired me to work on this project, the project summary and findings, a demo, and additional project details."
+title: "PROJECT 1<br/><em>Same Facts, Different Interfaces: Evaluating FAQ, Retrieval Chatbot, and AI Chatbot for Student Services</em>"
+excerpt: "Compared FAQ, retrieval-based chatbot, and AI-chatbot interfaces to examine how different ways of delivering the same information affect users' experience accessing student-service information.<br/><br/><a href='/portfolio/portfolio-1/'><strong>Explore the project</strong></a> <em>(Inspiration, project summary & findings, demo, and additional details)</em>"
 collection: portfolio
 ---
 
