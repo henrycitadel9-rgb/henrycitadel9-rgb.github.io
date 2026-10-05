@@ -16,11 +16,11 @@ See the Project Summary and Demo below for details of the study, its findings, a
 
 ## Project Summary
 
-Universities increasingly rely on digital platforms to provide students with information about admissions, registration, housing, financial aid, and other services. However, differences in how information is presented and retrieved may affect not only whether users find the correct information, but also the amount of **cognitive effort** required to do so. Despite the increasing adoption of chatbots and AI-based systems for student support, it remains unclear how these interfaces compare with traditional FAQ pages when accessing the same information.
+Universities increasingly rely on digital platforms to provide students with information about admissions, tuition, registration, housing, financial aid, and other campus services. However, differences in how information is presented and retrieved may affect not only whether users find the correct information, but also the amount of **cognitive effort** required to do so. Despite the increasing adoption of chatbots and AI-based systems for student support, it remains unclear how these interfaces compare with traditional FAQ pages when accessing the same information.
 
 This study compares a traditional FAQ webpage, a retrieval-based chatbot, and an AI-powered chatbot, all built from the same knowledge base. Participants completed the same information-seeking tasks across all three interfaces. The metrics measured included *ease of use, mental effort, trust, speed, and accuracy*.
 
-The results showed that participants preferred the **retrieval and AI chatbots**, although some found the AI chatbot overly conversational. Participants reported greater trust in the traditional FAQ and retrieval chatbot, while **task-completion time was shortest with the retrieval chatbot**. System evaluation also revealed limitations in the traditional FAQ and retrieval chatbot when users phrased questions differently from the stored information.
+The results showed that participants preferred the **retrieval and AI chatbots**, although some found the AI chatbot overly conversational. Participants reported greater trust in the traditional FAQ and retrieval chatbot, with **task-completion time being shortest when using the retrieval chatbot**. System evaluation also revealed limitations in the traditional FAQ and retrieval chatbot when users phrased questions differently from the stored information.
 
 Overall, these findings highlight the potential of conversational interfaces to improve how students access information while emphasizing the need to balance **usability, efficiency, and trust**.
 
