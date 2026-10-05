@@ -9,7 +9,7 @@ collection: portfolio
 Throughout my undergraduate studies, I worked on several class projects, but this cognition project remains my favorite. I have always been curious about how the mind processes information and how we are able to focus on certain information while ignoring other things happening around us. I was therefore excited to have the opportunity to explore this topic in my **Practicals in Cognition II** class. In this project, I used pre-existing experimental data collected from students enrolled in PSYC 441/449 to examine how focused attention influences the way we process and remember auditory information.
 
 <p style="font-size: 0.92em; color: #777; font-style: italic;">
-See the Project Summary below for details of the study and its findings. You can also view or download the full project write-up below.
+See the Project Summary below for details of the study and its findings.
 </p>
 
 ## Project Summary
