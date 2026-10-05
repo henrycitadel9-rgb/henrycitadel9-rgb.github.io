@@ -1,6 +1,6 @@
 ---
 title: "Same Facts, Different Interfaces: Evaluating FAQ, Retrieval Chatbot, and AI Chatbot for Student Services"
-excerpt: "For this project, I created three different user interfaces: an FAQ webpage, a retrieval-based chatbot, and an AI chatbot, to examine how different ways of delivering the same information affect users' experience accessing the information they need.<br/><br/><a href='/portfolio/portfolio-1/'><strong>Click here to view project details</strong></a> <em>(Learn what inspired me to work on this project, see a summary of the project and its findings, watch a demo of the three interactive systems I created, and access the full write-up.)</em>"
+excerpt: "For this project, I created three different user interfaces, an FAQ webpage, a retrieval-based chatbot, and an AI chatbot, to examine how different ways of delivering the same information affect users' experience accessing the information they need.<br/><br/><a href='/portfolio/portfolio-1/'><strong>Click here to view project details</strong></a> <em>(Learn what inspired me to work on this project, see a summary of the project and its findings, watch a demo of the three interactive systems I created, and access the full write-up.)</em>"
 collection: portfolio
 ---
 
@@ -10,7 +10,7 @@ During my first year at the University of Ghana, my colleagues and I often strug
 
 That led me to ask: ***“Could there be a simpler and more user-friendly way for students to find the information they need with less cognitive effort?”***
 
-<p style="font-size: 0.95em; color: #777; font-style: italic; margin-top: 1.6em; margin-bottom: 2.4em;">
+<p style="font-size: 1em; color: #777; font-style: italic; margin-top: 1.6em; margin-bottom: 2.5em;">
 See the Project Summary and Demo below for details of the study, its findings, and the systems I developed.
 </p>
 
