@@ -59,7 +59,7 @@ author_profile: true
 
   <div class="project-summary">
     {% if forloop.index == 1 %}
-      For this project, I created three different user interfaces, an FAQ webpage, a retrieval-based chatbot, and an AI chatbot, to examine how different ways of delivering the same information affect users' experience accessing the information they need.
+      For this project, I created three different user interfaces; an FAQ webpage, a retrieval-based chatbot, and an AI chatbot, to examine how different ways of delivering the same information affect users' experience of finding the information they need.
     {% elsif forloop.index == 2 %}
       For this project, I developed and deployed an automatic speech recognition system for Ga, a low-resource Ghanaian language, by fine-tuning Whisper on approximately 90,000 audio-text pairs.
     {% elsif forloop.index == 3 %}
@@ -71,9 +71,9 @@ author_profile: true
     <a class="project-link" href="{{ post.url | relative_url }}">Click here to view project details</a>
 
     {% if forloop.index == 1 %}
-      (Learn about what inspired me to work on this project, see a summary of the project and its findings, watch a demo of the three interactive systems I created, and access the full write-up.)
+      (Learn about what inspired me to work on this project, read a summary of the project and its findings, watch a demo of the three interactive systems I created, and access the full write-up.)
     {% elsif forloop.index == 2 %}
-      (Learn about how I got involved in this project, see a summary of the project and its results, and watch a demonstration of the Ga speech-recognition system I developed.)
+      (Learn about how I got involved in this project, read a summary of the project and its results, and watch a demonstration of the Ga speech-recognition system I developed.)
     {% elsif forloop.index == 3 %}
       (Learn about my favorite class project, see what I found, and access the full write-up of the study.)
     {% endif %}
