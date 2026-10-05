@@ -5,11 +5,6 @@ var addressPoints = [
     -122.4075201
   ],
   [
-    "Presentation 1 | Oral Presentation<br />College of Education International Conference 2026; University of Ghana, Legon, Ghana",
-    5.6465979,
-    -0.188004
-  ],
-  [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
