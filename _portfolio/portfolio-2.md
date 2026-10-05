@@ -1,6 +1,6 @@
 ---
 title: "Building a High-Accuracy Ga ASR System Using the Transformer-Based Whisper Architecture"
-excerpt: "For this project, I developed and deployed an automatic speech recognition system for Ga, a low-resource Ghanaian language, by fine-tuning Whisper on approximately 90,000 audio-text pairs.<br/><br/><a href='/portfolio/portfolio-2/'><strong>See the details of the project here</strong></a> <em>(This include my inspiration and how I got involved in this project, project summary & a demonstration of the model I built)</em>"
+excerpt: "For this project, I developed and deployed an automatic speech recognition system for Ga, a low-resource Ghanaian language, by fine-tuning Whisper on approximately 90,000 audio-text pairs.<br/><br/><a href='/portfolio/portfolio-2/'><strong>See the details of the project here</strong></a> <em>(This includes my inspiration and how I got involved in the project, a project summary, and a demonstration of the model I built.)</em>"
 collection: portfolio
 ---
 
@@ -8,7 +8,9 @@ collection: portfolio
 
 During my third year at the University of Ghana, I became increasingly interested in Human-Computer Interaction and wanted an opportunity to gain research experience in the field. I approached **Prof. Isaac Wiafe** and expressed my interest in working on a project under his supervision in the Human-Computer Interaction Lab. Following our conversation, he challenged me to work on automatic speech recognition for **Ga, a low-resource Ghanaian language**. This became an opportunity for me to apply the computing and machine learning skills I had been developing independently to a real research problem.
 
-See the **Project Summary and Demo** below for details of the system I developed and its performance.
+<p style="font-size: 0.92em; color: #777; font-style: italic;">
+See the Project Summary and Demo below for details of the project, the system I developed, and its performance.
+</p>
 
 ## Project Summary
 
