@@ -5,7 +5,7 @@ var addressPoints = [
     -122.4075201
   ],
   [
-    "Same Facts, Different Interfaces: Evaluating FAQ, Retrieval Chatbot, and AI Chatbot for Student Services<br />College of Education International Conference 2026; University of Ghana, Legon, Ghana",
+    "Presentation 1 | Oral Presentation<br />College of Education International Conference 2026; University of Ghana, Legon, Ghana",
     5.6465979,
     -0.188004
   ],
