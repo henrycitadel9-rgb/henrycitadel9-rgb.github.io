@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Henry Kofi Dodzi Dakpo"
+title                    : "Dakpo, Henry Kofi Dodzi"
 title_separator          : "-"
 name                     : &name "Henry Kofi Dodzi Dakpo"
 description              : &description "Academic portfolio of Henry Kofi Dodzi Dakpo"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "henrycitadel9-rgb/henrycitadel9-rgb.github.io"
 author:
   # Biographic information
   avatar           : "dvlottery2025henry.JPG.jpeg"
-  name             : "Henry Kofi Dodzi Dakpo"
+  name             : "Henry Dakpo"
   pronouns         : "he/him"
   bio              :
   employer         : "University of Ghana"
