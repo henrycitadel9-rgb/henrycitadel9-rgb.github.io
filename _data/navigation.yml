@@ -8,7 +8,7 @@ main:
     url: /portfolio/
 
   - title: "Presentations"
-    url: /presentations/
+    url: /talks/
 
   - title: "CV"
     url: /cv/
