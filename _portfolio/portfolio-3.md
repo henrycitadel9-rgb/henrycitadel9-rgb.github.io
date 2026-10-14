@@ -22,4 +22,27 @@ The results showed significant differences among the four groups. Participants g
 
 Overall, the findings show that **focused attention plays an important role in how effectively we process and remember information, while dividing attention across competing information can reduce memory performance**.
 
-**Want to read more?** View or download the full project write-up [here].
+## Full Project Write-up
+
+<p>
+The complete project report is available below. You can read it directly on this page or download a copy.
+</p>
+
+<p>
+<a href="/files/Henry%20Dakpo_Practicals%20in%20Cognition%20II%20project.pdf"
+   class="btn btn--primary"
+   target="_blank"
+   rel="noopener">
+  View or Download Full Project
+</a>
+</p>
+
+<div style="margin-top: 25px;">
+  <iframe
+    src="/files/Henry%20Dakpo_Practicals%20in%20Cognition%20II%20project.pdf#view=FitH"
+    width="100%"
+    height="850px"
+    style="border: 1px solid #e5e5e5;"
+    title="Focused Attention and Recall of Auditory Information Full Project Report">
+  </iframe>
+</div>
