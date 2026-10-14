@@ -24,7 +24,20 @@ The results showed that participants preferred the **retrieval and AI chatbots**
 
 Overall, these findings highlight the potential of conversational interfaces to improve how students access information while emphasizing the need to balance **usability, efficiency, and trust**.
 
-**Want to read more?** View or download the full project write-up [here](FULL-PROJECT-LINK).
+<p>
+<strong>Want to read more?</strong> View or download the full project write-up
+<a href="/files/User%20Interface_Manuscript%20Draft%20%28Henry%20Dakpo%29.pdf" target="_blank" rel="noopener">here</a>.
+</p>
+
+<h2>Full Project Write-Up</h2>
+
+<iframe
+  src="/files/User%20Interface_Manuscript%20Draft%20%28Henry%20Dakpo%29.pdf#view=FitH"
+  width="100%"
+  height="850px"
+  style="border: 1px solid #e5e5e5;"
+  title="Same Facts, Different Interfaces Full Project Write-Up">
+</iframe>
 
 ## Demo
 
