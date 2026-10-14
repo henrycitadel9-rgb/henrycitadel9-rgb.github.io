@@ -24,4 +24,4 @@ Overall, the project demonstrated the feasibility of adapting a multilingual spe
 
 ## Demo
 
-*Project demo will be added here.*
+*Coming Soon!*
