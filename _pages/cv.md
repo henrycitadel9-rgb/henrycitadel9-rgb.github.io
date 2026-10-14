@@ -11,7 +11,7 @@ redirect_from:
   View my curriculum vitae below or download a copy.
 </p>
 
-<a href="/files/Henry%20Dakpo%27s%20CV%20for%20portfolio%20test.pdf"
+<a href="/files/Henry%27s%20CV%20Updated%20for%20Graduate%20School.docx.pdf"
    class="btn btn--primary"
    target="_blank"
    rel="noopener">
@@ -20,7 +20,7 @@ redirect_from:
 
 <div style="margin-top: 25px;">
   <iframe
-    src="/files/Henry%20Dakpo%27s%20CV%20for%20portfolio%20test.pdf#view=FitH"
+    src="/files/Henry%27s%20CV%20Updated%20for%20Graduate%20School.docx.pdf#view=FitH"
     width="100%"
     height="1050px"
     style="border: 1px solid #e5e5e5;"
