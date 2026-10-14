@@ -1,0 +1,128 @@
+
+---
+layout: archive
+permalink: /presentations/
+author_profile: true
+---
+
+<style>
+.presentation-first-heading {
+  display: block !important;
+  visibility: visible !important;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+</style>
+
+
+<h2 class="presentation-first-heading">Presentation 1 | Oral Presentation</h2>
+
+<h3>Same Facts, Different Interfaces: Evaluating FAQ, Retrieval Chatbot, and AI Chatbot for Student Services</h3>
+
+<p>
+<strong>College of Education International Conference 2026</strong><br>
+University of Ghana | March 25, 2026
+</p>
+
+<p>
+Henry presented this research at the College of Education International Conference 2026 at the University of Ghana. The study compared how students interacted with three interfaces for accessing the same student-service information: a traditional FAQ webpage, a retrieval-based chatbot, and an AI-powered chatbot. The work examined users' ease of use, mental effort, trust, speed, and accuracy across the three systems.
+</p>
+
+<h3>Presentation Slides</h3>
+
+<iframe
+  src="/files/CoE%20conference%20Presentation%20%28Henry%20Dakpo%29.pdf#view=FitH"
+  width="100%"
+  height="650px"
+  style="border: 1px solid #e5e5e5;"
+  title="Same Facts, Different Interfaces Presentation Slides">
+</iframe>
+
+<p>
+<a href="/files/CoE%20conference%20Presentation%20%28Henry%20Dakpo%29.pdf" target="_blank">
+Download Presentation Slides
+</a>
+</p>
+
+
+<h3>Conference Participation Certificate</h3>
+
+<iframe
+  src="/files/CoE%20Certificate%20%28Henry%20Dakpo%29.pdf#view=FitH"
+  width="100%"
+  height="650px"
+  style="border: 1px solid #e5e5e5;"
+  title="College of Education International Conference Participation Certificate">
+</iframe>
+
+<p>
+<a href="/files/CoE%20Certificate%20%28Henry%20Dakpo%29.pdf" target="_blank">
+Download Certificate
+</a>
+</p>
+
+
+<hr style="margin: 60px 0;">
+
+
+<h2>Presentation 2 | Poster Presentation</h2>
+
+<h3>Same Facts, Different Interfaces: Evaluating FAQ, Retrieval Chatbot, and AI Chatbot for Student Services</h3>
+
+<p>
+<strong>Alumni Day</strong><br>
+University of Ghana
+</p>
+
+<p>
+Henry presented a poster based on his research comparing three approaches to accessing student-service information: a traditional FAQ webpage, a retrieval-based chatbot, and an AI-powered chatbot. The poster presented the study's approach and findings on how differences in information interfaces affect users' experiences, including ease of use, mental effort, trust, speed, and accuracy.
+</p>
+
+<h3>Research Poster</h3>
+
+<iframe
+  src="/files/Alumni%20Day%20Poster%20%28Henry%20Dakpo%29.pdf#view=FitH"
+  width="100%"
+  height="750px"
+  style="border: 1px solid #e5e5e5;"
+  title="Same Facts, Different Interfaces Research Poster">
+</iframe>
+
+<p>
+<a href="/files/Alumni%20Day%20Poster%20%28Henry%20Dakpo%29.pdf" target="_blank">
+Download Research Poster
+</a>
+</p>
+
+
+<hr style="margin: 60px 0;">
+
+
+<h2>Presentation 3 | Oral Presentation</h2>
+
+<h3>Automatic Speech Recognition for Ga: Exploring Speech Recognition for a Low-Resource Language</h3>
+
+<p>
+<strong>Research Lab Presentation</strong><br>
+University of Ghana
+</p>
+
+<p>
+Henry presented his work on automatic speech recognition for Ga, a low-resource Ghanaian language, to senior colleagues in his research lab. The presentation discussed the development of a Ga speech-recognition system using OpenAI's Whisper architecture and the process of fine-tuning the model for Ga speech transcription.
+</p>
+
+<h3>Presentation Slides</h3>
+
+<iframe
+  src="/files/Ga-ASR_Henry%20Dakpo%20%28Presented%20to%20my%20Supervisor%20and%20lab%20colleagues%29.pdf#view=FitH"
+  width="100%"
+  height="650px"
+  style="border: 1px solid #e5e5e5;"
+  title="Ga Automatic Speech Recognition Presentation Slides">
+</iframe>
+
+<p>
+<a href="/files/Ga-ASR_Henry%20Dakpo%20%28Presented%20to%20my%20Supervisor%20and%20lab%20colleagues%29.pdf" target="_blank">
+Download Presentation Slides
+</a>
+</p>
